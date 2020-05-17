@@ -1,0 +1,212 @@
+Point Name,Date of Point Failure,Time,Description of Fault Symptoms,Details on final root causes of incident/fault,Photo Evidences,Alstom Maintenance/MTS Trackwork/SJV (defect delivery)
+PT_CHW21,12/05/2019,14:05,"Point CHW21 was reported failed to ""Normal"" ","1) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,13/05/2019,13:00,CHW21 points failed in reverse after train turned back.,"2) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,19/05/2019,10:04,"10:04 - T17 at CHW Platform 2 would not move. Tried One Step Move and also clearing train ID and re modifying train ID without success. ATS showed a Hold Type by ATC. CHW21 points have failed in reverse. No ATS alarm. Only notification of points failure was when tried to swing into Normal on ATS.
+10:12 - RRU advised. Headway changed to run via Platform 3. T02 which had stopped behing T17 moved back to NTR and then in Headway. T17 at CHW was moved via CHW23 points to the Down line and into the Headway. Will continue to run via Platform 3 with 8 train CUD - CHW until points fixed. 
+12:32 - Route Blocking issued to PO to inspect points.
+12:53 - Points tested at engineer request and now working. Engineer stated reason for failure maintenence. 
+13:01 - Route Blocking fulfilled.
+13:05 - Timetable resumed using CHW turnback. ","3) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,18/06/2019,03:10,"CHW - Points CHW21 slow to operate the first operation in the normal position.
+Then operated points few more operations in both directions with success.","4) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,18/06/2019,11:06,"11:06 Noted on arrival of train 16 to CHW platform 2, CHW 21 points in reverse position. 
+Route from SI 3108 to turnback cancelled, TC2 attempted to move CHW 21 points via ATS commands. CHW21 failed to move from the reverse position. 
+CHW 21 declared failed. 
+Service contingency implemented at CHW, all up services to arrive and depart from CHW platform 3. Station Controller advised. Station staff advised. CJC-Ts advised. PA announcements made on trains (note: not all PAs are working). Train 16 held at platform 2 to allow customers on platform 3 to make their way to platform 2. 
+Train 14 brought into platform 3 CHW before train 16 released from platform 2 CHW. 
+Train 16 delayed 7 minutes. 12:02, route block authorised by TC2 to inspect CHW 21 points.
+12:35, certified ok, points swung manually and then remotely via ATS. Route blocking ended 12:25hrs. Train 6 first service back to normal. No issues when arriving in turnback.","5) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,28/06/2019,11:30,"11:27 -  CHW21 points at Chatswood turnback have failed in reverse. T21 on Platfaorm 2 will have its passengers transferred to Platform 3 which will be the arrival and departure point at Chatswood until the problem has been rectified. No impact on services at this stage. TMC and the ROC have been advised. 
+11:32 - The FRC are on their way to attend with an ETA of approx 40mins. T07 has been diverted to Platform 3. 
+11:39 - T21 sent to NTR Down platform. 
+12:24 - Route Blocking issued to PO to rectify points. 
+12:45 - CHW21 points failure at Chatswood has been rectified, but will remain under observation by the Alstom Engineer. ain on Platform 2 will be moved into the Turbnback as normal and will then enter back into the timetable service. TMC have been advised. Total incident time to return to normal services : 1 hour 8 mins .","6) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,29/06/2019,11:20,"11:20 - Points CHW21 did not swing to normal position whilst TS10 waiting to depart from Platform 2. Attempted to manually operate Points CHW21, no respond. TMC have been advised.
+11:22: SC 2-PA to all CJC-S on Brownfield line
+11:22: SC 2 -PA announcement at CHW platform 
+11:22 TS10 was sent to NTR from Platform 2 to commence degraded operations.
+11:29 FRC and MSO notified by CC
+11:28 Commenced CHW Platform 3 operations for all services, PA announcements made for all approaching services to CHW.
+11:30 Route blocking, Signal blocked, ARS removed and GAMA removed from CHW City end to buffer in preparation for track access. 
+12:37 Alstom Engineer onsite at CHW.
+13:10: SC 2 - Updated PA announcement to confirm services have gone back to normal, advised CJC-S at Chatswood  12:49 Route blocking 009 issued to PO.
+12:57 ALstom Engineer performed several test on Points CHW21 and TC2 was able to manually operate from ATS
+","7) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,12/09/2019,13:50,"Train terminated on No. 2 at Chatswood, routed into the turnback to return to platform 3. Whilst train transitting No. 21 points, train came to a stand after delocalising.
+No. 21 points then noted to lose detection and indicate that they had gone into transit. on board CJC-T contacted and verified train was not derailed.  Signalling buffer prevented routing following trains into no. 2 or 3 platforms.","8) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,20/09/2019,04:42,"21 Points appeared to fail at CHW
+Road set but failed to call the points. points laying  in the reverse.
+Signal 3108 was at stop was the main indicator tat the road wasn't correctly set.
+Multiple attempts to swing the points failed.
+Train ID removed to see if that assisted with the points. 
+Road from signal 3108 to the turnback taken off, then several attempts to swing the points until final put in the normal.
+Train ID re established then the train 1 stepped into the turnback, resumed mission and the train departed in UTO towards CHW platform 3. 
+Train doors failed to open
+Platform hold placed but too late and train departed 7 minutes late without opening the doors at CHW down.
+Next service 3 minutes later
+train hold applied at NTR down where doors operated normally
+CJC-T on board reported continuous alarms from under DDU panel, DOM contacted and advised its from the storage of alarms","9) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,23/09/2019,02:58,"Following the passage of Train Set Number 20 from the Up Turnback to Platform Number 3 - CHW21 Points failed to travel to the Reverse Position.
+Note: Train Set Number 20 delocalised whilst travelling from the Up Turnback to Platform Number 3 and had to be manually operated in RM to platform Number 3.
+Certified ok for normal use at 04:56 hours.
+Cause: Points Detection out of Adjustment.","10) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,23/09/2019,20:05,"CHW21 no detection in reverse. Train 2 in up turnback. Route to CHW platform 3 cancelled. CHW21 moved manually to normal and reverse twice. Detection gained on 21 points. Train 2 departed platform 3 CHW 20:07, 144 seconds late. FRC advised. Following service, train 15 nil issues.
+Alstom Track Infrastructure Technicians attended during Engineering Hours 23 to 24/9/19 and at 02:21 hours advised TC2 that they had found that the cause of CHW21 Points Failure was:
+1. Operating Bar out of alignment;
+2. Detection Bar out of alignment;
+3. Points out of adjustment. 
+The Alstom Track Infrastructure Technician will make a detailed report and forward it to the MTS FRC.
+02:22 Hours - The Alstom Track Infrastructure Technician advised TC2 that CHW21 Points were now functioning as designed.","11) Spring assist device out of adjustment
+2) Lack of chair plate lubrication ",,MTS Trackwork
+PT_CHW21,13/12/2019,13:02,It has been reported that CHW21 failed and OC alarm raised at 13:02pm.,Tension spring damaged on motor cut out switch detection,,SJV (defect delivery)
+PT_CHW12,11/07/2019,03:18,"Chatswood 12 points unable to get detection in reverse.
+then normal to reverse and the point re-gained detection. The point was then put into auto, and he was requested to clear the track area by TC2 at around 0510 after attending the point for 10 mins. 
+FRC asked Bhavik if there would be any standby arrangement at CHW given no investigation could be done, Bhavik said he’s finishing his shift and this needs to be discussed with Simon Ngai. 
+FRC checked with TC2 and confirmed the point is locked in normal with trains running. 
+SJV incident response replied that they won’t provide additional support other than arranging Alstoms (SJV) to attend point failure when that happens. In parallel, Alstoms (SJV) manger Simon Ngai advised FRC that they have AM peak standby at CHW everyday.
+UPDATE 0436am 12/7 :- : The root cause of point failure of PT_CHW12_1&2 is struck by dry grease with dust ",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,04/09/2019,20:48,"CHW points 12 on pl-3  CHW12W failed in reverse​ (swing nose)
+Reported to Alstom. Attending during EH. RRU-S attending.
+Confirmed with CC at 02:30 05/09/19 Pulse check that point maintenance is complete and line check has been carried out.",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,12/09/2019,13:50,"Train terminated on No. 2 at Chatswood, routed into the turnback to return to platform 3. Whilst train transitting No. 21 points, train came to a stand after delocalising.
+No. 21 points then noted to lose detection and indicate that they had gone into transit. on board CJC-T contacted and verified train was not derailed.  Signalling buffer prevented routing following trains into no. 2 or 3 platforms.",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,03/10/2019,02:55,"CHW 12 points failed to gain detection in reverse
+FRC advised 02:55
+Alstom on route to CHW - ETA 04:00
+CHW 12 points locked in normal via ATS workstation
+04:10 Route blocking 33 authorised 
+04:27 Works completed, all workers and equipment out of the danger zone and route blocking 33 fulfilled 
+CHW points certified for operation and cause was - Fish tail getting stuck
+Lock removed via ATS workstation",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,13/10/2019,18:02,"18:02 hours CHW12 Points failed to travel to the Reverse Position for the movement of Train Set Number 019 (Run Number 109) to travel from the Up Main Line into platform 3 at CHW.
+18:03 hours TC2 set the route into platform NUmber 2 at CHW instead. There was no delay to Train Set Number 019.
+
+CHW12 Points manipulated via the ATS Workstation to the Revberse Position , but this was unsuccessful. CHW12 Points Locked in the Normal Position on the ATS Workstation. 
+FRC Advised.",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,18/10/2019,02:51,"02:51 Whilst performing point testing, CHW 12 failed to drive in reverse twice. CHW 12 and CHW 22 have been locked in normal via ATS. FRC was advised.",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW12,11/11/2019,21:29,CHW12 - CHW12 Points failed to set reverse - Reported by CC.,No fault found from CM team.,N/A,N/A
+PT_CHW12,15/11/2019,01:30,CHW12 - CHW12 Points failed to set reverse in timetable mode . Reported by the TC​,No fault found from CM team.,N/A,N/A
+PT_CHW12,04/12/2019,03:10,CHW12 failed to get detection on reverse,No fault found from CM team.,N/A,N/A
+PT_CHW12,11/12/2019,01:44,Spring assist maintenance (Alstom and John hollen) ,The detection rod was hitting against the manual/motor lever with points in reverse position. Both detection rods were cut into suitable length by John Hollen.,,SJV (defect delivery)
+PT_CHW22,10/05/2019,11:46,"Protection (Route Blocking) put in place at Chatswood Station to anticipate Line Tech’s work to rectify issue with Points22
+Carousel service put in place from Tallawong to North Ryde.
+TMC and RMC advised of changes to train service. 
+TC1 confirmed Protection in place, and gave authorisation for maintenance crew to enter the rail corridor.
+Line Tech’s begin work on Points 22.
+Line Tech crew have exited the rail corridor
+Protection removed from Chatswood area.
+points 22 issue rectified
+RMC advised that all work crew have left the rail corridor.  
+Full service restored.",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW22,22/08/2019,02:53,"CHW22 points failed to gain detection in reverse during routine points testing
+Routine points testing being conducted 
+CHW22 points failed to gain detection in reverse
+After 2 failed attempts CHW22 points locked in normal on ATS and FRC advised
+CHW12 points also locked as directed by the Chief",Wear on the face of the lock box. ,,SJV (defect delivery)
+PT_CHW22,04/12/2019,03:10,CHW12 failed to get detection on reverse,No fault found from CM team.,N/A,N/A
+PT_CHW22,11/12/2019,01:44,Spring assist maintenance (Alstom and John hollen) ,Both detection rods may hit against the manual/motor lever with points in both directions. Both detection rods were cut into suitable length by John Hollen.,,SJV (defect delivery)
+PT_CHW13,01/07/2019,04:22,"CHW13 points failed to gain detection in reverse
+3 attempts to gain detection in reverse
+04:22 1st attempt
+04:23 2nd attempt
+04:34 3rd attempt 
+All failed to gain reverse detection
+CHW13 points electronically locked in normal on ATS at 04:35",High motor clutch slip current (10.8A) found.,N/A,SJV (defect delivery)
+PT_BLV22,31/07/2019,04:30,"BLV 22 Points unavailable for use - Clipped & Locked
+WR 30.20719GW and compiled IBA for BLV22 Points (Note IBA may not be correctly compiled)
+Blocks applied to BLV 22
+Report entered by C.White per CC request",Switch opening out of range. Track vehicles and high vehicle passed over this point and make signaificant change the switch opening.,  N/A,MTS Operation
+PT_BLV21,06/10/2019,03:29,"While testing all points in the Greenfield BLV21 Point failed to show detection in reverse. Tested again and failed again.
+Set BLV Point back to Normal and locked in Normal.
+No delays.",Back-drive out of adjustement.,  N/A,MTS Trackwork
+PT_BLV12,03/11/2019,00:00,Failure to have reverse detection,"Switch opening out of range after weekend shut down (2nd&3rd November 2019). Track vehicles and high vehicle passed over this point and make signaificant change the switch opening during shut down.
+Adjustment were carried out to the throw bar to balance the switch blade opening on 13 Nov 19. A full preventive maintenance procedure was carried out after adjustment.", N/A,MTS Operation
+PT_CSH11,23/09/2019,02:32,CSH 11 Points located on the Down Main Line failed to travel to the Reverse Position for the movement of Train Set Number 007 (Line Clear Check Train) from the Up Main Line at CSH to the Down Main Line. This set of points was unable to be tested prior to the LPA Handback due to the position of Train Set Number 020 (Drills Train) at Showground on the Up Main line. The Route overlap on the ATS Workstation prevented the points from being tested.,Mode selector of PT_CSH11 was left on ‘Hand’ mode after the weekend shutdown.,N/A,MTS Operation
+PT_CSH11,09/12/2019,01:30,"PT_CSH11 failed to swing to reverse during point testing in the greenfield. All points were operated individually, not via a route setting. TC1 locked PT_CSH11 in normal. PT_CSH12, CSH21 and PT_CSH22 all operational. MSS shows PT_CSH11 as available with no errors.","A power loss, the power needed is 110 volts he has measured 50 volts and the motor stalls before the completing the movement. Spare power cable core to parallel up the power supply to remove the voltage drop issue.",N/A,SJV (defect delivery)
+PT_CSH21,03/05/2019,17:00,"17:00 TS04 stopped at SI_3703. CSH21 stuck in normal position, unable to remotely change to reverse. Tried again and eventually moved to reverse. Alstom advised to monitor.
+18:45 TS17 also stopped at SI_3703, CSH21 points stuck in normal position. Unable to remotely swing. TS17 one step moved back to CSH UP. Applied route block from SI_3704 to SI_3604 as per Alstom, one step moved TS17 from CSH UP to CHE DOWN. 
+19:06 Points able to remotely swing.
+19:14 Reported to FRC
+19:22 Route was set for TS02, detection failed for CSH21. Less than one minute, detection regained in normal position, after a few attempts by Alstom, able to remotely swing  to reverse.
+19:31 Route blocked CHE to CSH UP, carousel not required to be altered, will time out after route block on CHE UP acknowledged and re-set route automatically to CHE DOWN.  ","1) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH22,03/05/2019,18:45,"As traction possesion work at city end of CHE, train had to loop back to TAL at CHE. SC reported that the train route could not set the point (CSH21) to 3702 toward downtrack.  
+Update on 4 May 19:
+Alstom conducted further troubleshooting on 3^4 May 19 at CSH SER and resumed point working. 
+The train had to use alternative route to downtrack. The uptrack train needed to go through point CSH22 toward downtrack point CSH11 then to CHE. The train started at CHE downtrack returning to TAL.","2) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH23,06/05/2019,22:30,"CC notfied FRC that CSH21 point failed to be throw to reverse. Point detection in normal direction ok. ATS and CCS alarm log reviewed with no alarm on CSH21 since 22:24.
+7 May 2:10 FRC notified Alstom DTC Brett about the point failure.
+2:15 FRC and SJV notified SJV Alstom sitting in OCC (Simon's team","3) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH24,15/06/2019,22:30,"22:30 - CSH21 Points failed to swing into reverse for TS10, going from CHE platform 1 to CSH platform 2.
+22:32 - Tried swinging points vai the ATS Workstation 3 times, but still failed.
+22:33 - CC informed.
+22:35 - CC requested to have Points CSH21 checked by Trainer on TS10, using a Route Blocking Form.
+22:50 - Crossing TS07 over from CSH1 to CHE2, to keep train moving.
+22:03 - Route Blocking 008 issued to Daryl Rodriguez, to check Points CSH21.
+22:04 - Daryl Rodriguez disembark TS10 to check Points CSH21.
+22:08 - Daryl Rodriguez infroms that Point motor tries to drive, but fails to set the points. Points CSH21 are now Locked via the ATS Workstation.
+23:18 - Route Blocking 008 ended, all personell off track & back on TS10.
+23:31 - CUD UP-NTR AFTER Headway is now in place.
+23:34 - TS10 Departs in UTO in the Up direction from CSH21 Points.","4) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH25,14/06/2019,02:46,"TC1 moved points to send TS10 from CSH down to CHE via CSH 12 and CSH 21 points.
+At 0246 hrs While setting route for TS07 from CSH Up to CHE Up, points 21 failed in Reverse position from the previous movement. TC 1 made several unsuccessful attempts to move points CSH 21 to normal position.
+At 0247 hrs CC made contact with FRC. 
+At 0252 hrs TC1 applied standing train protection for Alstom Engineer to investigate ( Emergency Brake applied and points locked ) 
+At 0308 hrs CJCS was contacted by SC to open EWD  CHE platform 1 city End so that Alstom Engineer can access the rail corridor. But she had wrong key.
+At 0311 hrs CJCS found the key and opened the EWD.
+At 0312 hrs MSO was contacted and asked to attend the situation.
+At 0314 hrs Alstom engineer manually swung the points and then put it back in motor. 
+At 0315 hrs TC1 swung the points 3 times to confirm that points 21 are working normal now.
+At 0320 hrs FRC advised there Alstom Tech are at CHW and won’t be there until 0350 hrs.
+CC advised that Track Access won’t be granted because of passenger train services commence at 0405 hrs.
+Issues faced 
+Metro staff did not have SL keys in case we need to clip and lock the points. 
+CJCT used his personnel SL key to Unlock/lock the points.","5) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH26,27/06/2019,04:15,21 Points at CSH have failed in the REVERSE position,"6) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+PT_CSH27,02/07/2019,13:45,"CSH 13:40 whilst trying to implement a alternative route due to the set 18 failure at MQP,  Points CHW 21 failed in the reverse and could not be moved in to the normal position. 
+Alternative carasoul put into place.","7) Spring Assist Device out of adjustement
+2) Lack of chair plate lubrication",,MTS Trackwork
+NTR11 & NTR21,16/05/2019,05:26,"NTR PTS NTR21 & NTR11 failed morning point check.
+OCC initiated PPO to inspect points , PPO could not hear any operation of points. Points were set in normal position - Route set.
+Reported to Alstom - Elie to further investigate.
+09:05 Elie has informed that no power is being received from LGD.
+09:10 Sending out SJV/ MTS and UGL to site.
+11:20 Power restored at LGD
+Power was restored at LGD by by PLacing Standby breaker in LV power distribution panel LGD1-SDB-301 and resetting supply breaker LGD1-SDB-301.
+Tried looking up LV schematic  
+NWRLOTS-NRT-LGD-LV-DRG-203103 & 203104.
+Couldnt find more details as there may be inconsistant labelling to drawing.
+16May2019, 14:29  OCC Duty CC reported the NTR 21 &11 points resumed to normal after restoring power at LGD.  Status: Close",Lady Game Drive (LGD) power tripped.,N/A,MTS LV
+PT_EPP13,11/08/2019,21:00,"EPP Train set 02 run through EPP13 with the points not set correctly. Trailed
+Points damaged
+Refer incident report
+",Claw damaged by train.,,MTS Operation
+PT_CUD22,25/05/2019,16:14,CUD - CUD22 point failure - Failed in reverse cant swing in normal.,Excee shims installed on clawlock., N/A,SJV (defect delivery)
+PT_CUD11,01/09/2019,09:06,"CUD 09:08 Point failed to get detection status in normal.
+Signl 4304 cannot be cleared due to flank protection of point. Train in CUD UP has to be departed in RM.
+09:08 Point CUD11 failed to get detection status in normal. Signal 4304 to 4204 (CUD Up – RSH Up) cannot be cleared due to flank protection. Train in CUD UP has to be departed in RM.
+09:10 Called Alstom and PO. On the way to there.
+09:30 Alstom arrived on site.
+10:15 Agreed the Track access procedure among TC and PO. Track access to inspect the point
+10:15 -11:00   Alstom tried to throw the point manually. The point detection can be obtained. However, when the point control switched to motor and be thrown to normal, TC threw the point via ATS for 2 times. The point still lost detection in normal.
+Alstom performed further checking and asked TC to throw the point by Route Setting. The point detection in normal can be obtained.
+To minimize the impact to train service, CC decided to keep CUD11 in normal position and use CUD DN platform for turnback in the rest of day.
+11:00 Train service resumed with turnback at CUD DN
+ Follow-up: Detail investigation on CUD11 would be performed in Engineering hour.1-2 hours is expected to resolve the point failure.
+",Low motor clutch slip current (5.8A) found.,N/A,SJV (defect delivery)
+

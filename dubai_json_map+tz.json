@@ -1,0 +1,22 @@
+{
+"local_tz": "Asia/Dubai",
+"maintenance_log_datetime_format":"%A, %B %d, %Y",
+"logger_col": "persongroup",
+"col_number_for_timestamp": 1,
+"local_timestamp_col1": "faildate-daycalendar",
+"local_timestamp_col_separator1": "",
+"maintenance_end_timestamp_provided": "no",
+"local_timestamp_end_col1": "",
+"id_asset_col": "location - Copy.5",
+"type": "Maintenance",
+"type_col": "",
+"maintenance_type": "",
+"maintenance_type_col": "worktype",
+"col_number_for_maintenance_action": 3,
+"description_col1":  "Logger description: ",
+"action_col1":"WODESCRIPTION",
+"description_col2": "; Root cause: ",
+"action_col2": "PROBLEMCAUSE",
+"description_col3": "; Remedy: ",
+"action_col3": "PROBLEMREMEDY"
+}

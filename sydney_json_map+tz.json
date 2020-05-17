@@ -1,0 +1,23 @@
+{
+"local_tz": "Australia/Sydney",
+"maintenance_log_datetime_format":"%d/%m/%Y, %H:%M",
+"logger_col": "Alstom Maintenance/MTS Trackwork/SJV (defect delivery)",
+"col_number_for_timestamp": 2,
+"local_timestamp_col1": "Date of Point Failure",
+"local_timestamp_col_separator1": ", ",
+"local_timestamp_col2": "Time",
+"local_timestamp_col_separator2": "",
+"maintenance_end_timestamp_provided": "no",
+"local_timestamp_end_col1": "",
+"local_timestamp_end_col_separator1": "",
+"id_asset_col": "Point Name",
+"type": "Maintenance",
+"type_col": "",
+"maintenance_type": "preventive",
+"maintenance_type_col": "",
+"col_number_for_maintenance_action": 2,
+"description_col1":  "Description: ",
+"action_col1":"Description of Fault Symptoms",
+"description_col2": "; Root Cause: ",
+"action_col2": "Details on final root causes of incident/fault"
+}
