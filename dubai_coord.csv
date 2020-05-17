@@ -1,11 +1,11 @@
-Switch;Switch_long_name;WGS84 long;WGS84 lat
-SL37;rta_dubai_pointmachines_TramDepot_SL37;55.1811958°;25.1186767°
-SL39;rta_dubai_pointmachines_TramDepot_SL39;55.1815042°;25.1183895°
-SL40;rta_dubai_pointmachines_TramDepot_SL40;55.1813173°;25.1185401°
-SL41;rta_dubai_pointmachines_TramDepot_SL41;55.1823304°;25.1177951°
-SL42;rta_dubai_pointmachines_TramDepot_SL42;55.1816678°;25.1182963°
-SL44;rta_dubai_pointmachines_TramDepot_SL44;55.1825061°;25.1177224°
-SL51;rta_dubai_pointmachines_TramDepot_SL51;55.1646503°;25.1075444°
-SL52;rta_dubai_pointmachines_TramDepot_SL52;55.1648021°;25.107749°
-SL53;rta_dubai_pointmachines_TramDepot_SL53;55.165604°;25.1085559°
-SL54;rta_dubai_pointmachines_TramDepot_SL54;55.1654583°;25.108445°
+Switch,Switch_long_name,WGS84 long,WGS84 lat
+SL37,rta_dubai_pointmachines_TramDepot_SL37,55.1811958°,25.1186767°
+SL39,rta_dubai_pointmachines_TramDepot_SL39,55.1815042°,25.1183895°
+SL40,rta_dubai_pointmachines_TramDepot_SL40,55.1813173°,25.1185401°
+SL41,rta_dubai_pointmachines_TramDepot_SL41,55.1823304°,25.1177951°
+SL42,rta_dubai_pointmachines_TramDepot_SL42,55.1816678°,25.1182963°
+SL44,rta_dubai_pointmachines_TramDepot_SL44,55.1825061°,25.1177224°
+SL51,rta_dubai_pointmachines_TramDepot_SL51,55.1646503°,25.1075444°
+SL52,rta_dubai_pointmachines_TramDepot_SL52,55.1648021°,25.107749°
+SL53,rta_dubai_pointmachines_TramDepot_SL53,55.165604°,25.1085559°
+SL54,rta_dubai_pointmachines_TramDepot_SL54,55.1654583°,25.108445°

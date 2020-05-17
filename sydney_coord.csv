@@ -1,15 +1,16 @@
-Switch;Switch_long_name;WGS84 long;WGS84 lat
-PT_CUD23;srs_sydneymaster_pointmachines_CUD_23;-33.691212;150.907111
-PT_CUD11;srs_sydneymaster_pointmachines_CUD_11;-33.690675;150.908912
-PT_CUD12;srs_sydneymaster_pointmachines_CUD_12;-33.691338;150.907088
-PT_CUD21;srs_sydneymaster_pointmachines_CUD_21;-33.690655;150.908770
-PT_CUD22;srs_sydneymaster_pointmachines_CUD_22;-33.690862;150.908107
-PT_CUD13;srs_sydneymaster_pointmachines_CUD_13;-33.691988;150.904968
-PT_CUD25;srs_sydneymaster_pointmachines_CUD_25;-33.692138;150.904102
-PT_CUD24;srs_sydneymaster_pointmachines_CUD_24;-33.691892;150.904917
-PT_CUD32;srs_sydneymaster_pointmachines_CUD_32;-33.692024;150.904290
-PT_CUD27;srs_sydneymaster_pointmachines_CUD_27;-33.692234;150.903808
-PT_CUD33;srs_sydneymaster_pointmachines_CUD_33;-33.692358;150.903225
-PT_CHW11;srs_sydneymaster_pointmachines_CHW_11;-33.799275;151.180955
-PT_CHW21;srs_sydneymaster_pointmachines_CHW_21;-33.799823;151.181007
+Switch,Switch_long_name,WGS84 long,WGS84 lat
+PT_CUD23,srs_sydneymaster_pointmachines_CUD_23,-33.691212,150.907111
+PT_CUD11,srs_sydneymaster_pointmachines_CUD_11,-33.690675,150.908912
+PT_CUD12,srs_sydneymaster_pointmachines_CUD_12,-33.691338,150.907088
+PT_CUD21,srs_sydneymaster_pointmachines_CUD_21,-33.690655,150.908770
+PT_CUD22,srs_sydneymaster_pointmachines_CUD_22,-33.690862,150.908107
+PT_CUD13,srs_sydneymaster_pointmachines_CUD_13,-33.691988,150.904968
+PT_CUD25,srs_sydneymaster_pointmachines_CUD_25,-33.692138,150.904102
+PT_CUD24,srs_sydneymaster_pointmachines_CUD_24,-33.691892,150.904917
+PT_CUD32,srs_sydneymaster_pointmachines_CUD_32,-33.692024,150.904290
+PT_CUD27,srs_sydneymaster_pointmachines_CUD_27,-33.692234,150.903808
+PT_CUD33,srs_sydneymaster_pointmachines_CUD_33,-33.692358,150.903225
+PT_CHW11,srs_sydneymaster_pointmachines_CHW_11,-33.799275,151.180955
+PT_CHW21,srs_sydneymaster_pointmachines_CHW_21,-33.799823,151.181007
+
 

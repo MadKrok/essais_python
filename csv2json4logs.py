@@ -27,7 +27,7 @@ output_time_format = '%Y-%m-%dT%H:%M:%SZ'  #full UTC : '%Y-%m-%dT%H:%M:%SZ'
 monitoredAssets = []
 
 with open(coord_file) as file:
-	coord_reader = csv.DictReader(file, delimiter= ";")
+	coord_reader = csv.DictReader(file, delimiter= ",")
 	for row in coord_reader:
 		monitoredAssets.append(row['Switch'])
 
@@ -35,7 +35,7 @@ with open(coord_file) as file:
 def long_name(switch):
 	if switch in monitoredAssets:
 		with open(coord_file) as file:
-			coord_reader = csv.DictReader(file, delimiter= ";")
+			coord_reader = csv.DictReader(file, delimiter= ",")
 			for row in coord_reader:
 				if row['Switch'] == switch:
 					return row['Switch_long_name']
@@ -48,7 +48,7 @@ def long_name(switch):
 def gps(switch, axis):
 	if switch in monitoredAssets:
 		with open(coord_file) as file:
-			coord_reader = csv.DictReader(file, delimiter= ";")
+			coord_reader = csv.DictReader(file, delimiter= ",")
 			for row in coord_reader:
 				if row['Switch'] == switch:
 					coordWithUnit = row['WGS84 {}'.format(axis)]

@@ -1,0 +1,1 @@
+{"logger": "N/A", "id_asset": "PT_CHW22", "timestamp": "2019-12-03T16:10:00Z", "timestamp_end": "2019-12-03T16:40:00Z", "type": "Maintenance", "maintenance_type": "preventive", "maintenance_action": "Description: CHW12 failed to get detection on reverse; Root Cause: No fault found from CM team.", "reset_baseline": 0, "reset_agan": 0, "gps_latitude": "N/A", "gps_longitude": "N/A"}
