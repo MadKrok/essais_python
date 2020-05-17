@@ -1,7 +1,7 @@
 ## Bulk extraction of .json maintenance files from logs
 
 
-###Input files
+### Input files
 This seems to work well-ish with Sydney and Dubai, I have not tried it elsewhere.
 First step requires to obtain a CSV-like list of maintenance activities, and format
 it to get consistency across all lines (asset names, timestamp format, etc.).
@@ -18,7 +18,7 @@ Modifying the paths mentioned in the "INPUT FILES" section of the `csv2json4logs
 script will presumably enable it to run for other projects, provided a consistent
 mapping can be achieved.
 
-###Disclaimers
+### Disclaimers
 I will not be competent in maintaining or cleaning up the `csv2json4logs.py` script
 much further, I have mainly been treating this as a *Python for Dummies* exercise.
 I have however commented as much as I could what I understood of my own code, so
